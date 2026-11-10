@@ -1,5 +1,6 @@
 Center Record Management System
-​A command-line interface (CLI) application written in Dart designed to manage and look up records for both patients and staff members in a medical center or facility setting.
+​
+A command-line interface (CLI) application written in Dart designed to manage and look up records for both patients and staff members in a medical center or facility setting.
 
 ​This project demonstrates core Object-Oriented Programming (OOP) principles in Dart, including Abstraction, Inheritance, Polymorphism, Encapsulation, as well as the use of Mixins, Collections, and Exception Handling.
 
